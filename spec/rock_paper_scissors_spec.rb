@@ -1,7 +1,10 @@
+#น.ส.รุจิรางค์ ไวยดารา 5510613275
+#นายธนกร เหลืองขจรวิทย์ 5510613309
+
 require 'rock_paper_scissors'
 require 'spec_helper'
 
-describe RockPaperScissors, :pending => true do
+describe RockPaperScissors do
   before(:each) do
     @rock = ['Armando','R'] ; @paper = ['Dave','P'] ; @scissors = ['Sam','S']
   end
